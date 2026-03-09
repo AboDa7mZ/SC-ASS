@@ -1,0 +1,3 @@
+Hello World! This is a test message for the Classical Encryption Tool.
+Security and Cryptography are important topics in Computer Science.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789
